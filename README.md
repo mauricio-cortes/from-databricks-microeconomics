@@ -17,4 +17,3 @@ Repositório organizado por tópicos de microeconomia implementados em Python.
 
 ```bash
 git clone https://github.com/seu-usuario/from-databricks-microeconomics.git
-pip install -r requirements.txt
